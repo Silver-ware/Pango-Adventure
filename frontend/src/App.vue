@@ -20,8 +20,8 @@
 </template>
 
 <style>
-html,
-body {
-  cursor: url("/cursors/cursor-default.cur"), not-allowed;
-}
+  html,
+  body {
+    cursor: url("/cursors/cursor-default.cur"), not-allowed;
+  }
 </style>
